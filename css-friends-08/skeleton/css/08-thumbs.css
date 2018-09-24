@@ -1,1 +1,17 @@
 /* PHASE 8: Thumbs */
+
+.thumb {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+}
+
+.thub li {
+  
+  /* flex: 3; */
+}
+
+.thumb li img{
+  width: 60px;
+  display: inline-flex;
+}
